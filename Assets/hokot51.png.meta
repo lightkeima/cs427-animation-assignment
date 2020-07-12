@@ -1,0 +1,740 @@
+fileFormatVersion: 2
+guid: e7d6e8ef238d685ddb5c1fd53a65c249
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -132981051019049233
+    second: hokot51_0
+  - first:
+      213: -102324685503225822
+    second: hokot51_1
+  - first:
+      213: -659777692216504342
+    second: hokot51_2
+  - first:
+      213: 2083168204556357162
+    second: hokot51_3
+  - first:
+      213: 3921530968009542704
+    second: hokot51_4
+  - first:
+      213: 1321406193056435568
+    second: hokot51_5
+  - first:
+      213: -4996737560406546403
+    second: hokot51_6
+  - first:
+      213: -337343101204060658
+    second: hokot51_7
+  - first:
+      213: -360670046581297008
+    second: hokot51_8
+  - first:
+      213: 6035071990262009246
+    second: hokot51_9
+  - first:
+      213: -935470900520632935
+    second: hokot51_10
+  - first:
+      213: 1772885693149130840
+    second: hokot51_11
+  - first:
+      213: 1758799020807808612
+    second: hokot51_12
+  - first:
+      213: -3323138785559514063
+    second: hokot51_13
+  - first:
+      213: -7161057256639957422
+    second: hokot51_14
+  - first:
+      213: 2925193786177169611
+    second: hokot51_15
+  - first:
+      213: 7165932307103545681
+    second: hokot51_16
+  - first:
+      213: -4854755098831806924
+    second: hokot51_17
+  - first:
+      213: -1661066510445210175
+    second: hokot51_18
+  - first:
+      213: -8989011550589579060
+    second: hokot51_19
+  - first:
+      213: 4558982497847608047
+    second: hokot51_20
+  - first:
+      213: -2235103170738222132
+    second: hokot51_21
+  - first:
+      213: 3881270661216935102
+    second: hokot51_22
+  - first:
+      213: -7612049246083457383
+    second: hokot51_23
+  - first:
+      213: -5724624159718723748
+    second: hokot51_24
+  - first:
+      213: -6332662195938300690
+    second: hokot51_25
+  - first:
+      213: -3300997699181145876
+    second: hokot51_26
+  - first:
+      213: 140085618640438441
+    second: hokot51_27
+  - first:
+      213: -8594312272878779846
+    second: hokot51_28
+  - first:
+      213: -7942500427960680996
+    second: hokot51_29
+  - first:
+      213: 4699311986066858236
+    second: hokot51_30
+  - first:
+      213: -2857306323502588670
+    second: hokot51_31
+  - first:
+      213: 8433491869606866421
+    second: hokot51_32
+  - first:
+      213: 3835301736637767672
+    second: hokot51_33
+  - first:
+      213: -238515493750977279
+    second: hokot51_34
+  - first:
+      213: 5838437356398149214
+    second: hokot51_35
+  - first:
+      213: 8381935755085390491
+    second: hokot51_36
+  - first:
+      213: 8825556594437722446
+    second: hokot51_37
+  - first:
+      213: 2832044967177295899
+    second: hokot51_38
+  - first:
+      213: -1215630663730721557
+    second: hokot51_39
+  - first:
+      213: 3352520862118264909
+    second: hokot51_40
+  - first:
+      213: 8873710630128057030
+    second: hokot51_41
+  - first:
+      213: 8751849072934687569
+    second: hokot51_42
+  - first:
+      213: -8648479225790110751
+    second: hokot51_43
+  - first:
+      213: -8856017935355582000
+    second: hokot51_44
+  - first:
+      213: -1585594766970196616
+    second: hokot51_45
+  - first:
+      213: -9184218131587993069
+    second: hokot51_46
+  - first:
+      213: 3870652303736672099
+    second: hokot51_47
+  - first:
+      213: -4780469922356310201
+    second: hokot51_48
+  - first:
+      213: 4952485711888356686
+    second: hokot51_49
+  - first:
+      213: 8968428133850295866
+    second: hokot51_50
+  - first:
+      213: 5603936117754335999
+    second: hokot51_51
+  - first:
+      213: -8894626834973234748
+    second: hokot51_52
+  - first:
+      213: -137667457782055104
+    second: hokot51_53
+  - first:
+      213: -3863153068214818963
+    second: hokot51_54
+  - first:
+      213: -7552505924468303068
+    second: hokot51_55
+  - first:
+      213: 7376955742289564434
+    second: hokot51_56
+  - first:
+      213: 246363654117170278
+    second: hokot51_57
+  - first:
+      213: -3736939264827594110
+    second: hokot51_58
+  - first:
+      213: 399772312955093875
+    second: hokot51_59
+  - first:
+      213: 490374383445094168
+    second: hokot51_60
+  - first:
+      213: 3091702903797610955
+    second: hokot51_61
+  - first:
+      213: -8538017578006060950
+    second: hokot51_62
+  - first:
+      213: -2726389297618863880
+    second: hokot51_63
+  - first:
+      213: -6164214128369431478
+    second: hokot51_64
+  - first:
+      213: 5890398336779143242
+    second: hokot51_65
+  - first:
+      213: -8507813044676994688
+    second: hokot51_66
+  - first:
+      213: -3716075711583502844
+    second: hokot51_67
+  - first:
+      213: 6349012209488712283
+    second: hokot51_68
+  - first:
+      213: 2502911943823862787
+    second: hokot51_69
+  - first:
+      213: -4098026050443075613
+    second: hokot51_70
+  - first:
+      213: 6089290824109877773
+    second: hokot51_71
+  - first:
+      213: 4405791510663599571
+    second: hokot51_72
+  - first:
+      213: 2491609136303529686
+    second: hokot51_73
+  - first:
+      213: 3937188914284710559
+    second: hokot51_74
+  - first:
+      213: 8564653041987222062
+    second: hokot51_75
+  - first:
+      213: -2856204436259475
+    second: hokot51_76
+  - first:
+      213: -4305406473343605871
+    second: hokot51_77
+  - first:
+      213: -1783890718664679897
+    second: hokot51_78
+  - first:
+      213: -3396932182840819290
+    second: hokot51_79
+  - first:
+      213: 2796287143882288669
+    second: hokot51_80
+  - first:
+      213: -61823791735501723
+    second: hokot51_81
+  - first:
+      213: 8609808360273035470
+    second: hokot51_82
+  - first:
+      213: 8252010854824590379
+    second: hokot51_83
+  - first:
+      213: -5656948929451558997
+    second: hokot51_84
+  - first:
+      213: 2971239667851732147
+    second: hokot51_85
+  - first:
+      213: 1811186846090085885
+    second: hokot51_86
+  - first:
+      213: -2583289234602943440
+    second: hokot51_87
+  - first:
+      213: -5079909638751910665
+    second: hokot51_88
+  - first:
+      213: -6842426190146373774
+    second: hokot51_89
+  - first:
+      213: 6092647843455063726
+    second: hokot51_90
+  - first:
+      213: -1488628867582805926
+    second: hokot51_91
+  - first:
+      213: -3340410568053328682
+    second: hokot51_92
+  - first:
+      213: 1006516366471490614
+    second: hokot51_93
+  - first:
+      213: -8397389935839324579
+    second: hokot51_94
+  - first:
+      213: 1362196332341269064
+    second: hokot51_95
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hokot51_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6c62c407e872ef0800000000000000
+      internalID: -132981051019049233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hokot51_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220a3dc9d38749ef0800000000000000
+      internalID: -102324685503225822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hokot51_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef45b04faff7d6f0800000000000000
+      internalID: -659777692216504342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hokot51_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e48f7e176e8ec10800000000000000
+      internalID: 2083168204556357162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hokot51_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c07e363a31c6630800000000000000
+      internalID: 3921530968009542704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hokot51_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d41257ee3965210800000000000000
+      internalID: 1321406193056435568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hokot51_6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18ad14a9a508aab0800000000000000
+      internalID: -4996737560406546403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hokot51_7
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06ad4d9c34815bf0800000000000000
+      internalID: -337343101204060658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hokot51_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090f568e084aefaf0800000000000000
+      internalID: -360670046581297008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hokot51_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d0a7dfff1e0c350800000000000000
+      internalID: 6035071990262009246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hokot51_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99db0cc1c2a8403f0800000000000000
+      internalID: -935470900520632935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hokot51_11
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850b68f052e8a9810800000000000000
+      internalID: 1772885693149130840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hokot51_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466ed821462886810800000000000000
+      internalID: 1758799020807808612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hokot51_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134f66b91e6d1e1d0800000000000000
+      internalID: -3323138785559514063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hokot51_14
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256fdb1bd50de9c90800000000000000
+      internalID: -7161057256639957422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hokot51_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8254c0040689820800000000000000
+      internalID: 2925193786177169611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
